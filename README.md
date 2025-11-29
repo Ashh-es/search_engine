@@ -1,6 +1,4 @@
-Here is a professional and structured README.md file for your repository. You can copy and paste this directly into your GitHub project.
-
-🔍 Scientific Article Search Engine (arXiv)
+**🔍 Scientific Article Search Engine (arXiv)**
 
 ![alt text](https://img.shields.io/badge/Python-3.8%2B-blue)
 
